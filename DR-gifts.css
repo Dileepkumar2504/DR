@@ -1,0 +1,508 @@
+.gift-top-section
+{
+    background-image:url(navigatorbg.jpeg);
+    height: 14vh;
+    background-size: cover;
+}
+.special-img1
+{
+    height: 12vh;
+    width:30vh;
+    margin-bottom:12px;
+    border-radius: 9px;
+    margin-right:800px;
+    justify-content: space-between;
+    margin-top: 10px;
+
+}
+.menu
+{
+    width: 95px;
+    height: 35px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 7px;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+    background-color:  rgb(10, 10, 11);
+    margin-top: 18px;
+    margin-right: 5px;
+}
+.menu1
+{
+   width: 95px;
+    height: 35px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(10, 10, 11);
+    margin-top: 18px;
+    margin-right: 5px;
+}
+.menu2
+{
+    width: 95px;
+    height: 35px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 7px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(10, 10, 11);
+    margin-top: 18px;
+}
+
+.gift-bottom-section
+{
+    background-image: url(mainbg2.jpg);
+    background-size: cover;
+    height: 90vh;
+}
+.heading
+{
+    width: 350px;
+    font-style:"roboto" ;
+    color: rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-left: 300px;
+}
+.login-card-container
+{
+    background-color:#f0f3ed;
+    border-radius:16px ;
+    padding: 10px;
+    margin-left: 150px;
+    height: 430px;
+    width: 420px;
+    margin-bottom: 100px;
+}
+
+.special-img
+{
+    height: 10vh;
+    width:10vh;
+   border-radius:120px ;
+   padding-left: 7px;
+ margin-left: 35px;
+ margin-top:2px;
+}
+.button
+{
+    height: 10vh;
+    width:10vh;
+   border-radius:120px ;
+   padding-left: 7px;
+   margin-left: 35px;
+   margin-top:2px;
+}
+
+/*______________________________________________________________*/
+
+form {
+    border: 3px solid #f1f1f1;
+  }
+  
+  /* Full-width inputs */
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 1px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  /* Set a style for all buttons */
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 10px 10px;
+    margin: 3px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  /* Add a hover effect for buttons */
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  /* Extra style for the cancel button (red) */
+  .cancelbtn {
+    width: auto;
+    padding: 10px 10px;
+    background-color: #f44336;
+  }
+  
+  /* Center the avatar image inside this container */
+  .imgcontainer {
+    text-align: center;
+    margin: 20px 0 10px 0;
+  }
+  
+  /* Add padding to containers */
+  .container {
+    padding: 10px;
+  }
+  
+  /* The "Forgot password" text */
+  span.psw {
+    float: right;
+    padding-top: 10px;
+  }
+  
+  /* Change styles for span and cancel button on extra small screens */
+  @media screen and (max-width: 300px) {
+    span.psw {
+      display: block;
+      float: none;
+    }
+    .cancelbtn {
+      width: 100%;
+    }
+  }
+/*______________________________________________________________*/
+.gift-bottom-section2
+{
+    background-color:rgb(28, 28, 246);
+    background-size: cover;
+    height: 120vh;
+}
+.heading1
+{
+    width: 350px;
+    font-style:"roboto" ;
+    color: rgb(0, 0, 150);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-right:30px;
+    margin-left: 60px;
+    margin-top: 90px;
+}
+.signup-card-container1
+{
+    background-color:#ffffff;
+    border-radius:16px ;
+    padding: 10px;
+    height: 590px;
+    width: 500px;
+   align-items: center;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+.signup0
+{
+ margin-bottom: 100px;
+}
+label{
+    color: black;
+    font-size: 20px;
+}
+#name{
+    width: 250px;
+    height: 30px;
+    border: none;
+    border-radius: 10px solid black;
+    padding-left: 8px;
+    background-color: rgb(203, 196, 196);
+    margin-left: 29px;
+}
+#sname{
+    width: 250px;
+    height: 30px;
+    border: none;
+    color: #000;
+    border-radius: 3px;
+    padding-left: 8px;
+    background-color: rgb(203, 196, 196);
+    margin-left: 32px;
+}
+#dob{
+    width: 250px;
+    height: 30px;
+    border: none;
+    color: #000;
+    border-radius: 3px;
+    padding-left: 8px;
+    background-color: rgb(203, 196, 196);
+    margin-left: 6.5px;
+}
+span{
+    color: black;
+    font-size: 20px;
+}
+.MBOX
+{
+    margin-left: 60px;
+}
+.FBOX
+{
+    margin-left: 50px;
+}
+#gmail{
+    width: 250px;
+    height: 30px;
+    border: none;
+    color: #000;
+    border-radius: 3px;
+    padding-left: 8px;
+    background-color: rgb(203, 196, 196);
+    margin-left: 34px;
+}
+#pass1{
+    width: 250px;
+    height: 30px;
+    border: none;
+    color: #000;
+    border-radius: 3px;
+    padding-left: 8px;
+    background-color:rgb(203, 196, 196);
+    margin-left: 34px;
+}
+#cpass{
+    width: 250px;
+    height: 30px;
+    border: none;
+    color: #000;
+    border-radius: 3px;
+    padding-left: 8px;
+    background-color:rgb(203, 196, 196);
+    margin-right:10px;
+}
+#adress{
+    width: 350px;
+    height: 60px;
+    border: none;
+    color: #000;
+    border-radius: 3px;
+    padding-left: 8px;
+    background-color:rgb(203, 196, 196);
+    margin-right:10px;
+}
+.sup 
+{
+    font-size: x-large;
+    font-style: initial;
+    font-size: 26px;
+}
+.ch
+{
+margin-left: 50px;
+}
+#submit{
+    width: 290px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 7px;
+    color: rgb(247, 247, 251);
+    margin-left: 80px;
+    background-color: rgb(0, 74, 28);
+    text-align: center;
+   font-size: xx-large;
+}
+/*_________________________________________________________________*/
+.dv-card-container
+{
+    background-color:white;
+    border:0;
+    border-radius: 16px;
+    margin: 24px;
+    width: 500px;
+    margin-left: 350px;
+}
+.details
+{
+    background-color:white;
+    width: 500px;
+    margin-left: 350px;
+    margin-bottom: 100px;
+    text-align: center; font-style:"roboto" ;
+    color: rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+.order
+{
+    margin-right: 380px;
+    text-align: start;
+    background-color: antiquewhite;
+    margin-left: 5px;
+}
+.matter
+{
+    font-style:"roboto" ;
+    text-align: start;
+    background-color: aqua;
+    margin-left: 5px;
+}
+/*-------------------------------shoping-------------------------*/
+.gift-bottom-section3
+{
+    background-color:rgb(28, 28, 246);
+    text-align: center;
+    padding: 15px;
+    height: 290vh;
+}
+.items{
+    margin-left: 40px;
+}
+.gift-card-item
+{
+    background-color:rgb(218, 239, 145);
+    text-align: center;
+    margin: 15px;
+    border:0 ;
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+    border-radius: 9px;
+}
+
+.gift-card-img
+{
+height: 90px;
+width: 90px
+}
+.gift-card-name
+{
+    color:rgb(28, 28, 246) ;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 5px;
+}
+.gift-card-price
+{
+    font-family: "roboto";
+    font-size:16px ;
+    font-weight: 450px;
+
+}
+/*--------------------------feedback------------------------*/
+.fb-card
+{
+    background-color: rgb(210, 207, 204);
+    height: 600px;
+    width: 700px;
+    margin-left: 250px;
+}
+.heading2
+{
+    width: 350px;
+    font-style:"roboto" ;
+    color: rgb(1, 1, 1);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-right:30px;
+    margin-left: 170px;
+    margin-top: 20px;
+}
+.fb-p
+{
+    margin-left: 190px;
+    color: rgb(43, 0, 255);
+}
+#radio
+{
+    margin-left: 50px;
+}
+.info
+{
+    margin-left: 20px;
+}
+#fname
+{
+margin-left: 10px;
+width: 300px;
+}
+#fname1
+{
+    margin-left: 50px;
+    width: 300px;
+}
+#fname2
+{
+    margin-left: 90px;
+    width: 300px;
+}
+#fname3
+{
+    margin-left: 34px;
+    width: 300px;
+}
+#fname4
+{
+    margin-left: 40px;
+    width: 450px;
+    height: 90px;
+}
+#fname5
+{
+    margin-left: 40px;
+    width: 400px;
+    height: 70px;
+}
+.btn0
+{
+    margin-left: 300px;
+    width: 150px;
+}
+.cart
+{
+    font-size: 120px;
+    color: antiquewhite;
+    font-style: oblique;
+}
+.table
+{
+ margin-left: 200px ;
+    padding-left: 60px;
+}
+.cls
+{
+    margin: 90px;
+}
+/*-------------------------------------cart_________________*/
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:rgb(0, 0, 0);
+    color:rgb(69, 69, 199);
+    text-align: center;
+    padding: 20px;
+}
+
+#cart {
+    background-color:white;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+#items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    
+}
+
+.item {
+    border: 4px solid rgb(255, 255, 255);
+    padding: 10px;
+    text-align: center;
+}
+
+.item img {
+    max-width: 100%;
+    height:50px;
+    width:50px;
+}
